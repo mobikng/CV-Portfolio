@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr {
+    border-top: 2px solid black;
+    width: 80%;
+    margin: 5px 0;
+    margin-left: 10px;
+}
+
+.Pbold {
+    font-weight: bold;
+}
+
+.tab {
+    position: absolute;
+    padding-left: 400px;
+    left: 600px;
+  }
+
+.name {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.profile-links {
+    text-align: center;
+    margin-top: 8px;
+    color: black;
+}
+.profile-links a {
+    text-decoration: none;
+    color: black;
+}
+
+.role {
+    text-align: center;
+    margin: 15px auto;
+}
+
+.education{
+    margin-bottom: 15px;
+}
+.education h4 {
+    text-align: left;
+    margin-left: 10px;
+    /* text-decoration: underline; */
+}
+.education p {
+    margin-left: 10px;
+}
+.education ul {
+    margin-left: 60px;
+}
+
+.awards{
+    margin-bottom: 15px;
+}
+.awards h4 {
+    text-align: left;
+    margin-left: 10px;
+    /* text-decoration: underline; */
+}
+.awards ul {
+    margin-left: 60px;
+}
+.awards #inner {
+    margin-left: 120px;
+}
+
+.skills {
+    margin-bottom: 15px;
+}
+.skills h4 {
+    text-align: left;
+    margin-left: 10px;
+    /* text-decoration: underline; */
+}
+.skills .grp1 ul {
+    margin-left: 60px;
+}
+.skills .grp2 ul {
+    margin-left: 500px;
+    position: relative;
+    bottom: 90px;
+}
+
+.work-exp {
+    margin-bottom: 15px;
+}
+.work-exp h4 {
+    text-align: left;
+    margin-left: 10px;
+    /* text-decoration: underline; */
+}
+.work-exp p {
+    margin-left: 10px;
+}
+.work-exp ul {
+   margin-left: 60px;
+}
+
+.leadership {
+    margin-bottom: 15px;
+}
+.leadership h4 {
+    text-align: left;
+    margin-left: 10px;
+    /* text-decoration: underline; */
+}
+.leadership p {
+    margin-left: 10px;
+}
+.leadership ul {
+   margin-left: 60px;
+}
+
+.volunteering {
+    margin-bottom: 15px;
+}
+.volunteering h4 {
+    text-align: left;
+    margin-left: 10px;
+    /* text-decoration: underline; */
+}
+.volunteering ul {
+   margin-left: 60px;
+}
+
+.certifications {
+    margin-bottom: 15px;
+}
+.certifications h4 {
+    text-align: left;
+    margin-left: 10px;
+    /* text-decoration: underline; */
+}
+.certifications p {
+    margin-left: 10px;
+}
+.certifications ul {
+   margin-left: 60px;
+}
+
+
